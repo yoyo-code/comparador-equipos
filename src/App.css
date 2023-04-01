@@ -1,0 +1,205 @@
+body {
+    font-family: 'Montserrat';
+}
+
+.react-grid-Grid {
+    text-align: center;
+}
+
+
+.MuiChip-outlinedPrimary {
+    font-family: 'Montserrat' !important;
+    color: black !important;
+}
+
+.MuiChip-root {
+    width: 95%;
+    font-family: 'Montserrat' !important;
+}
+ 
+.MuiAvatar-root {
+    font-family: 'Montserrat' !important;
+}
+
+.MuiChip-avatar {
+    margin-right: 10% !important;
+}
+
+.MuiTableCell-root {
+    font-family: 'Montserrat' !important;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+.MuiInputBase-input {
+    padding: 0px !important;
+    height: 56px !important;
+    font-family: 'Montserrat' !important;
+    text-align: center;
+}
+
+.breadcrumb {
+    margin-bottom: 0 !important;
+}
+
+.MuiInputBase-input {
+    box-shadow: inset 0px 0px 0px 0px #007bff;
+    transition: box-shadow 0.3s;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.MuiInputBase-input:hover {
+    box-shadow: inset 0px 0px 0px 1px #007bff;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.rdg-selected .drag-handle {
+    width: 2px !important;
+    height: 2px !important;
+}
+
+.react-grid-Canvas {
+    overflow-x: hidden !important;
+}
+
+.MuiChip-colorSecondary {
+    background-color: rgb(249, 164, 164) !important;
+}
+
+.MuiChip-avatarColorSecondary {
+    background-color:rgb(231, 105, 105) !important;
+}
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    margin-right: 2%;
+}
+
+.foooter {
+    text-align: center;
+}
+
+
+.instrucciones {
+    font-size: 16px !important;
+}
+
+.MuiChip-icon {
+    color: black !important;
+}
+
+.antesSwiper {
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+    height: 100%;
+}
+
+.antesSwiper .swiper-container {
+    height: 100%;
+    width: 100%;
+}
+
+.swiper-slide {
+    flex-shrink: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transition-property: transform;
+}
+
+.caja-swiper {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    text-align: center;        
+    width: 350px;
+    height:500px;
+    margin-left: -175px; /*half width*/
+    margin-top: -250px; /*half height*/
+    display: table;
+}
+
+.caja-swiper .item-swiper {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.swiper-slide-container {
+    text-align: center;
+          font-size: 18px;
+    height:100%;
+    margin:auto;
+          /* Center slide text vertically */
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: -webkit-flex;
+          display: flex;
+          -webkit-box-pack: center;
+          -ms-flex-pack: center;
+          -webkit-justify-content: center;
+          justify-content: center;
+          -webkit-box-align: center;
+          -ms-flex-align: center;
+          -webkit-align-items: center;
+          align-items: center;
+}
+
+.swiperItem {
+    width: 100%;
+}
+    
+.swiperItem h2 {
+    color: white;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.swiperItem p {
+    color: white;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.swiperItem .swiperImg {
+    width: 80%;
+    display: block;
+    margin: auto
+}
+
+.swiperImg img {
+    width: 80%;
+}
+
+.swiperImg .imagen1 {
+    width: 50%
+}
+
+.swiperImg .informe {
+    width: 40%;
+}
+
+.MuiAppBar-colorPrimary {
+    background-color: #0E75BB !important;
+}
+
+.MuiButtonGroup-groupedContainedPrimary:not(:last-child) {
+    background-color: #0E75BB !important;
+}
+.MuiButton-containedPrimary {
+    background-color: #0E75BB !important;
+}
+
+.MuiChip-root .MuiChip-avatarColorPrimary {
+    background-color: #0E75BB !important;
+}
+
+.MuiChip-colorPrimary .chipETA {
+    background-color: #0E75BB !important;
+}

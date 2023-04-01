@@ -1,0 +1,44 @@
+{
+  "name": "comp-equip",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.5.0",
+    "@material-ui/icons": "^4.0.1",
+    "@material-ui/utils": "^4.4.0",
+    "@mui/material": "^5.10.17",
+    "@mui/styled-engine-sc": "^5.10.16",
+    "mathjs": "^6.2.5",
+    "react": "^16.8.6",
+    "react-data-grid": "^6.1.0",
+    "react-dom": "^16.8.6",
+    "react-id-swiper": "^2.4.0",
+    "react-scripts": "3.0.1",
+    "react-to-print": "^2.5.0",
+    "recharts": "^1.6.2",
+    "regression": "^2.0.1",
+    "styled-components": "^5.3.6",
+    "swiper": "^5.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
